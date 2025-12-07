@@ -69,5 +69,3 @@ GitHub: https://github.com/imanderrrrr
 
 Me gusta aprender nuevas tecnologías, refactorizar hasta dejar el código limpio y diseñar arquitecturas escalables.
 He trabajado en sistemas reales usados diariamente, lo cual me ha dado experiencia práctica aun antes de entrar al mundo laboral formal.
-
-Si querés, te preparo también una **versión compacta** o una **versión visual con badges**. ¿Quieres algo más estilizado?
