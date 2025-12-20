@@ -1,71 +1,78 @@
 ## Anderson Aguirre
-Desarrollador Full-Stack Junior (Android + Web)
 
-Construyendo sistemas completos: desde la interfaz hasta la base de datos.
+## Junior Full-Stack Developer (Android + Web)
 
-Hola, soy Anderson. Estudio Ingeniería en Sistemas y desarrollo soluciones reales orientadas a negocios.
-Aunque Android es mi enfoque más fuerte, también trabajo en desarrollo web full-stack y he entregado proyectos funcionales para empresas y universidades.
+Building complete systems: from user interface to database.
 
-## Tecnologías que uso
+Hi, I’m Anderson. I study Systems Engineering and develop real, business-oriented software solutions. While Android development is my strongest area, I also work as a full-stack web developer and have delivered functional projects for companies and universities.
+
+## Technologies
+
 ## Android
 
 Kotlin
+
 MVVM + Clean Architecture
+
 Coroutines / Flow
-Room y Firestore
+
+Room & Firestore
+
 RecyclerView + ListAdapter
+
 Material Design
 
 ## Web
 
 JavaScript
+
 React
+
 Tailwind CSS
-Node.js (nivel básico)
+
+Node.js (basic level)
+
 PostgreSQL
 
-## Otras habilidades
+## Other Skills
 
-Consumo de APIs
-Git y GitHub
-Arquitectura por capas
-Sistemas de ventas e inventario
+API consumption
 
+Git & GitHub
 
-## Proyectos destacados
+Layered architecture
 
-## Distribuidora Jireh — Aplicación Android
+Sales and inventory systems
 
-Sistema de ventas completo con carrito, control de inventario, repositorios, Room y Firestore.
-Incluye arquitectura moderna, estado offline-first y cálculo de totales en tiempo real.
+## Featured Projects
 
-## POS Web con PostgreSQL
+## Distribuidora Jireh — Android Application
+Complete sales system including shopping cart, inventory control, repositories, Room and Firestore integration. Features modern architecture, offline-first support, and real-time total calculations.
 
-Punto de venta web con administración de productos, ventas y usuarios.
-Frontend en React + Tailwind y backend conectado a PostgreSQL.
+## Web POS with PostgreSQL
+Web-based point of sale system with product, sales, and user management. Frontend built with React + Tailwind and backend connected to PostgreSQL.
 
-## Sitio oficial de Ingeniería en Sistemas (Universidad)
+## Systems Engineering Official Website (University)
+Developed the academic website currently used by the department. Responsive design, fast load times, modular structure, and dynamic content.
 
-Desarrollé el sitio académico que actualmente utiliza la carrera.
-Diseño responsive, carga rápida, estructura modular y contenido dinámico.
+## What I’m Looking For
 
-## Qué estoy buscando
+I am currently preparing to work as a:
 
-Actualmente estoy preparándome para trabajar como:
+Junior Full-Stack Developer
 
-Desarrollador Full-Stack Junior
-Android Developer Junior
+Junior Android Developer
 
-Listo para aprender, aportar y crecer dentro de un equipo profesional.
+Motivated to learn, contribute, and grow within a professional team.
 
-## Contacto
+## Contact
 
-Email: andersonaguirre794@gmail.com
+## Email: andersonaguirre794@gmail.com
 
-GitHub: https://github.com/imanderrrrr
+## GitHub: https://github.com/imanderrrrr
 
+## Linkedln https://www.linkedin.com/in/anthony-aguirre-44585a376/
 
-## Sobre mí
+## About Me
 
-Me gusta aprender nuevas tecnologías, refactorizar hasta dejar el código limpio y diseñar arquitecturas escalables.
-He trabajado en sistemas reales usados diariamente, lo cual me ha dado experiencia práctica aun antes de entrar al mundo laboral formal.
+I enjoy learning new technologies, refactoring code until it is clean, and designing scalable architectures. I have worked on real systems used daily, which has given me practical experience even before entering the formal job market.
