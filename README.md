@@ -1,6 +1,6 @@
 ## Anderson Aguirre
 
-## Junior Full-Stack Developer (Android + Web)
+## Full-Stack Developer (Android + Web)
 
 Building complete systems: from user interface to database.
 
@@ -59,9 +59,9 @@ Developed the academic website currently used by the department. Responsive desi
 
 I am currently preparing to work as a:
 
-Junior Full-Stack Developer
+ Full-Stack Developer
 
-Junior Android Developer
+ Android Developer
 
 Motivated to learn, contribute, and grow within a professional team.
 
